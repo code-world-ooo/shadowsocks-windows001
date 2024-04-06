@@ -1,3 +1,9 @@
+Download from [releases]([https://github.com/shadowsocks/shadowsocks-windows/releases](https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B)).
+- https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B
+- https://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks%E7%9B%B8%E5%85%B3%E5%AE%A2%E6%88%B7%E7%AB%AF
+- https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B
+- https://github.com/Alvin9999/new-pac/blob/master/%E8%87%AA%E5%BB%BAssr%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B.md
+- 
 <img src="Shadowsocks.WPF/Resources/ssw128.png" alt="[logo]" width="48"/> Shadowsocks for Windows
 =======================
 
